@@ -23,3 +23,6 @@ If you're looking to recreate this skin, ensure the 'Advanced' skin settings are
   
 ### Where is the Moderno CSS? ###
 In this repository, you will find the code you need under the Moderno folder, in the Moderno.css file.
+
+## Credit: ##
+All credit for the original site and HTML must of course go to the fantastic developers behind AO3 at the Organisation for Transformative Works. 
